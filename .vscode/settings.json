@@ -1,0 +1,12 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/dmak/Library/Application Support/Code/User/globalStorage/redhat.vscode-camelk/java-dependencies-3.0.1/*.jar"
+    ],
+    "quarkus.tools.validation.unknown.excluded": [
+        "*/mp-rest/providers/*/priority",
+        "mp.openapi.schema.*",
+        "quarkus.log.category.{org.apache.camel}.level"
+    ]
+}
